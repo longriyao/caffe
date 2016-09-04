@@ -1,0 +1,7 @@
+bianyi command:
+    /home/xiaolong/Soft/clion-2016.2/bin/cmake/bin/cmake --build /home/xiaolong/.CLion2016.2/system/cmake/generated/caffe-8fe48973/8fe48973/Debug --target all -- -j 4
+
+ -- Install:
+ --   Install path      :   /home/xiaolong/.CLion2016.2/system/cmake/generated/caffe-8fe48973/8fe48973/__default__/install
+
+ -- Build files have been written to: /home/xiaolong/.CLion2016.2/system/cmake/generated/caffe-8fe48973/8fe48973/Debug
